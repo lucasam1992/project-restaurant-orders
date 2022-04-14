@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Restaurant Orders!
 
-O projeto consiste em sistema de controle de estoque e extração de relatórios de um restaurante.
+O projeto consiste em um sistema de controle de estoque e extração de relatórios de um restaurante.
 
 ## Tecnologia Usada
 
